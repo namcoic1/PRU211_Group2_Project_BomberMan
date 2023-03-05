@@ -1,0 +1,262 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.16f1 (4016570cf34f) revision 4200023'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16289 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\ky7_Code\PRU211m_Code\Editor\2021.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/ky7_Code/PRU211m_Code/Git_Bomberman_Project/PRU211_Group2_Project_BomberMan/PRU211_Group2_Project_BomberMan
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55605
+Successfully changed project path to: D:/ky7_Code/PRU211m_Code/Git_Bomberman_Project/PRU211_Group2_Project_BomberMan/PRU211_Group2_Project_BomberMan
+D:/ky7_Code/PRU211m_Code/Git_Bomberman_Project/PRU211_Group2_Project_BomberMan/PRU211_Group2_Project_BomberMan
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7092] Host "[IP] 10.33.13.204 [Port] 0 [Flags] 2 [Guid] 2665894240 [EditorId] 2665894240 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-48E7N8E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7092] Host "[IP] 10.33.13.204 [Port] 0 [Flags] 2 [Guid] 2665894240 [EditorId] 2665894240 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-48E7N8E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 143.72 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path D:/ky7_Code/PRU211m_Code/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/ky7_Code/PRU211m_Code/Git_Bomberman_Project/PRU211_Group2_Project_BomberMan/PRU211_Group2_Project_BomberMan/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   23.21.13.8908
+Initialize mono
+Mono path[0] = 'D:/ky7_Code/PRU211m_Code/Editor/2021.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'D:/ky7_Code/PRU211m_Code/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/ky7_Code/PRU211m_Code/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/ky7_Code/PRU211m_Code/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/ky7_Code/PRU211m_Code/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003970 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 122.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Domain Reload Profiling:
+	ReloadAssembly (836ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (595ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (129ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (371ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (123ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (175ms)
+				ProcessInitializeOnLoadMethodAttributes (62ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006602 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\ky7_Code\PRU211m_Code\Git_Bomberman_Project\PRU211_Group2_Project_BomberMan\PRU211_Group2_Project_BomberMan\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\ky7_Code\PRU211m_Code\Git_Bomberman_Project\PRU211_Group2_Project_BomberMan\PRU211_Group2_Project_BomberMan\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 102.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.352 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1353ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (1074ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (293ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (570ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (103ms)
+				BeforeProcessingInitializeOnLoad (117ms)
+				ProcessInitializeOnLoadAttributes (293ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4045 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 38 unused Assets / (56.1 KB). Loaded Objects now: 4501.
+Memory consumption went from 152.1 MB to 152.1 MB.
+Total: 4.228600 ms (FindLiveObjects: 0.427900 ms CreateObjectMapping: 0.176800 ms MarkObjects: 3.522300 ms  DeleteObjects: 0.100400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 164956.303703 seconds.
+  path: Assets/Script
+  artifactKey: Guid(79c251557b0a3a040a7a16558bda9698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(79c251557b0a3a040a7a16558bda9698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '475308f10a29f0e8afe11be6fb8e4812') in 0.018644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.384346 seconds.
+  path: Assets/Sprite
+  artifactKey: Guid(8ac848d9ae686374bae230d58b5426a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite using Guid(8ac848d9ae686374bae230d58b5426a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9e9f63c967cdfba2fbf5127bb67d87') in 0.008441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.438144 seconds.
+  path: Assets/Sprite/test.txt
+  artifactKey: Guid(2d9a34c489c69f244b957367c9e83e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/test.txt using Guid(2d9a34c489c69f244b957367c9e83e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e43e17108664f8b69a436046757831') in 0.036263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.000519 seconds.
+  path: Assets/Sprite/Block.png
+  artifactKey: Guid(82bf7691737464e4f9d621198d6116d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Block.png using Guid(82bf7691737464e4f9d621198d6116d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aeb118e4c618dc502a2e1ea295c21de') in 0.129777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Sprite/ExplosionMiddle.png
+  artifactKey: Guid(8d5f4f401e0d39b47bab5c03b299316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/ExplosionMiddle.png using Guid(8d5f4f401e0d39b47bab5c03b299316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3d5766bb37c392a7019e651d85beef') in 0.018712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprite/Ground.png
+  artifactKey: Guid(7381dd2d960db534c8e74e593138fe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Ground.png using Guid(7381dd2d960db534c8e74e593138fe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d1c5dd3c81c9477836f4c78c3bdc1d') in 0.014150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprite/Brick.png
+  artifactKey: Guid(18e96d6db09d5a2449905e02463b7244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Brick.png using Guid(18e96d6db09d5a2449905e02463b7244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e63f6c1255d82d57aff66d284fdd19c') in 0.015973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sprite/PlayerWhiteDeath.png
+  artifactKey: Guid(33f73030a3bd0414d875b66242b3723c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/PlayerWhiteDeath.png using Guid(33f73030a3bd0414d875b66242b3723c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba8487c6a30818e430fdccd15dfdb22') in 0.023057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Sprite/PlayerRedWalk.png
+  artifactKey: Guid(beb25b8b4c5a6a6408fad12725ff35b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/PlayerRedWalk.png using Guid(beb25b8b4c5a6a6408fad12725ff35b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f0b0d8464fe5f60caebe664fd7b3b6') in 0.018338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sprite/ExplosionStart.png
+  artifactKey: Guid(6049182ea9c55294ca7f07869e1b2f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/ExplosionStart.png using Guid(6049182ea9c55294ca7f07869e1b2f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775485f2c704d4774233633697d76bed') in 0.013057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprite/PlayerBlueWalk.png
+  artifactKey: Guid(a41c357d74990124283b6dda16b9c695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/PlayerBlueWalk.png using Guid(a41c357d74990124283b6dda16b9c695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3aa5ed54be55aef81deab9e2974030') in 0.014302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sprite/ItemExtraBomb.png
+  artifactKey: Guid(51a52c3d087e3ea41aac6d3bded074ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/ItemExtraBomb.png using Guid(51a52c3d087e3ea41aac6d3bded074ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94440a63e402b39fbf3fcc5ce910c2ea') in 0.018031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprite/PlayerBlueDeath.png
+  artifactKey: Guid(ad8be7471f6fdb94d8508742656aac5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/PlayerBlueDeath.png using Guid(ad8be7471f6fdb94d8508742656aac5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca66853dd5ab1d1f361c1dc2c3be3994') in 0.021296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Sprite/PlayerRedDeath.png
+  artifactKey: Guid(647f98c28ab95bb45af51bcbfa271b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/PlayerRedDeath.png using Guid(647f98c28ab95bb45af51bcbfa271b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c9be3b2523150281daf95e107de58c') in 0.021390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.979725 seconds.
+  path: Assets/Title/test.txt
+  artifactKey: Guid(6beba39cdb680e94995a276a7aac603c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Title/test.txt using Guid(6beba39cdb680e94995a276a7aac603c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eee36973fdabc2c76db419115feb909') in 0.003528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.205907 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.007940 seconds 
