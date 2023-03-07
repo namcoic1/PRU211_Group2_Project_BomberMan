@@ -345,7 +345,7 @@ GameObject:
   m_Component:
   - component: {fileID: 419953109}
   - component: {fileID: 419953108}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Stage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -605,6 +605,7 @@ GameObject:
   - component: {fileID: 748958396}
   - component: {fileID: 748958395}
   - component: {fileID: 748958394}
+  - component: {fileID: 748958398}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -689,6 +690,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &748958398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 748958393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 699135002c25c9c4e8ef0695ac6b38c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputKey: 32
+  bombPrefab: {fileID: 3551936827345851872, guid: 366f7c1d950a50f488b5b0b9c0157fd3, type: 3}
+  bombFuseTime: 3
+  bombAmount: 1
+  explosionPrefab: {fileID: 7805063069322698326, guid: a72cb144ec0566f44ab14596bbf92a91, type: 3}
+  explosionLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  explosionDuration: 1
+  explosionRadius: 1
+  destructibleTiles: {fileID: 1021866036}
+  destructiblePrefab: {fileID: 8020757347451247040, guid: 67f5b17c5bb0f394f84bdbccda9f9a2c, type: 3}
 --- !u!1 &1021866032
 GameObject:
   m_ObjectHideFlags: 0
@@ -701,7 +726,7 @@ GameObject:
   - component: {fileID: 1021866036}
   - component: {fileID: 1021866035}
   - component: {fileID: 1021866034}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Destructibles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1672,7 +1697,7 @@ GameObject:
   - component: {fileID: 1515614820}
   - component: {fileID: 1515614819}
   - component: {fileID: 1515614818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Indestructibles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
